@@ -1,1 +1,1 @@
-// tutaj byłby skompilowany kod Flutter Web
+// Skrypt Dart (Flutter Web) – tutaj normalnie byłby wygenerowany kod
