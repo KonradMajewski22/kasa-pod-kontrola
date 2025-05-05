@@ -1,0 +1,1 @@
+// tutaj byłby skompilowany kod Flutter Web
